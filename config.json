@@ -1,0 +1,24 @@
+{
+  "widget" : {
+    "height" : 180,
+    "tintColor" : "",
+    "iconColor" : ""
+  },
+  "info" : {
+    "url" : "",
+    "author" : "coo11",
+    "types" : 11,
+    "website" : "",
+    "name" : "",
+    "version" : "1.0.0"
+  },
+  "settings" : {
+    "autoKeyboardEnabled" : false,
+    "minOSVer" : "13.0.0",
+    "idleTimerDisabled" : false,
+    "rotateDisabled" : true,
+    "theme" : "auto",
+    "keyboardToolbarEnabled" : false,
+    "minSDKVer" : "1.0.0"
+  }
+}
