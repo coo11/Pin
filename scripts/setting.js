@@ -357,6 +357,7 @@ function support() {
             props: {
               text: "Pin+",
               font: $font(72),
+              textColor: $color("black"),
               align: $align.right
             },
             layout: make => {
@@ -368,6 +369,7 @@ function support() {
             props: {
               text: "感谢使用与支持。",
               font: $font("bold", 36),
+              textColor: $color("black"),
               align: $align.right
             },
             layout: (make, view) => {
@@ -380,6 +382,7 @@ function support() {
             props: {
               id: "_label",
               text: "打赏列表",
+              textColor: $color("black"),
               font: $font("bold", 24),
               align: $align.right
             },
