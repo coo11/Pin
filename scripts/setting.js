@@ -462,7 +462,7 @@ function support() {
                       title: "好的",
                       handler: () => {
                         $photo.save({
-                          data: $file.read("assets/support/wx.jpg"),
+                          data: $file.read("assets/support/zs.png"),
                           handler: async success => {
                             if (success) {
                               let { index } = await $ui.alert({
